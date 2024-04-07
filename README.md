@@ -1,7 +1,7 @@
 hi, i'm [Tina Lu](https://www.linkedin.com/in/tina-liaoning/), a passionate SDET (Software Developer in Test) from Canada.
 my passion for software quality drives me to explore new tools and technologies.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://github.com/tina-liaoning/tina-liaoning/blob/main/code.gif?raw=true" width="500" height="320" />
@@ -11,10 +11,28 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 **languages and tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="./images/java.svg"></code>
+<code><img height="20" src="./images/TestNG.png"></code>
+<code><img height="20" src="./images/maven.svg"></code>
+<code><img height="20" src="./images/gradle.png"></code>
+<code><img height="20" src="./images/seleniumWebDriver.png"></code>
+<code><img height="20" src="./images/appium.png"></code>
+<code><img height="20" src="./images/cucumber.svg"></code>
+<code><img height="20" src="./images/wdio.png"></code>
+<code><img height="20" src="./images/cypress.png"></code>
+<code><img height="20" src="./images/javascript.svg"></code>
+<code><img height="20" src="./images/nodejs.svg"></code>
+<code><img height="20" src="./images/mocha.png"></code>
+<code><img height="20" src="./images/chai.png"></code>
+<code><img height="20" src="./images/jasmin.png"></code>
+<code><img height="20" src="./images/allure.png"></code>
+<code><img height="20" src="./images/postman.svg"></code>
+<code><img height="20" src="./images/html-5.svg"></code>
+<code><img height="20" src="./images/css-3.svg"></code>
+<code><img height="20" src="./images/sql.png"></code>
+<code><img height="20" src="./images/linux.svg"></code>
+<code><img height="20" src="./images/git2.svg"></code>
+<code><img height="20" src="./images/jenkins.png"></code>
 
 
 📊 **this week i spent my time on:**
@@ -41,7 +59,5 @@ Other        8 mins          █▓░░░░░░░░░░░░░░░
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tina-liaoning&show_icons=true&theme=gotham" alt="tina-liaoning" />
-
-
 
 
