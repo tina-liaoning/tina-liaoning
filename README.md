@@ -11,28 +11,28 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 **languages and tools:**  
 
-<code><img height="20" src="./images/java.svg"></code>
-<code><img height="20" src="./images/TestNG.png"></code>
-<code><img height="20" src="./images/maven.svg"></code>
-<code><img height="20" src="./images/gradle.png"></code>
-<code><img height="20" src="./images/seleniumWebDriver.png"></code>
-<code><img height="20" src="./images/appium.png"></code>
-<code><img height="20" src="./images/cucumber.svg"></code>
-<code><img height="20" src="./images/wdio.png"></code>
-<code><img height="20" src="./images/cypress.png"></code>
-<code><img height="20" src="./images/javascript.svg"></code>
-<code><img height="20" src="./images/nodejs.svg"></code>
-<code><img height="20" src="./images/mocha.png"></code>
-<code><img height="20" src="./images/chai.png"></code>
-<code><img height="20" src="./images/jasmin.png"></code>
-<code><img height="20" src="./images/allure.png"></code>
-<code><img height="20" src="./images/postman.svg"></code>
-<code><img height="20" src="./images/html-5.svg"></code>
-<code><img height="20" src="./images/css-3.svg"></code>
-<code><img height="20" src="./images/sql.png"></code>
-<code><img height="20" src="./images/linux.svg"></code>
-<code><img height="20" src="./images/git2.svg"></code>
-<code><img height="20" src="./images/jenkins.png"></code>
+<code><img height="50" src="./images/java.svg"></code>
+<code><img height="50" src="./images/TestNG.png"></code>
+<code><img height="50" src="./images/maven.svg"></code>
+<code><img height="50" src="./images/gradle.png"></code>
+<code><img height="50" src="./images/seleniumWebDriver.png"></code>
+<code><img height="50" src="./images/appium.png"></code>
+<code><img height="50" src="./images/cucumber.svg"></code>
+<code><img height="50" src="./images/wdio.png"></code>
+<code><img height="50" src="./images/cypress.png"></code>
+<code><img height="50" src="./images/javascript.svg"></code>
+<code><img height="50" src="./images/nodejs.svg"></code>
+<code><img height="50" src="./images/mocha.png"></code>
+<code><img height="50" src="./images/chai.png"></code>
+<code><img height="50" src="./images/jasmin.png"></code>
+<code><img height="50" src="./images/allure.png"></code>
+<code><img height="50" src="./images/postman.svg"></code>
+<code><img height="50" src="./images/html-5.svg"></code>
+<code><img height="50" src="./images/css-3.svg"></code>
+<code><img height="50" src="./images/sql.png"></code>
+<code><img height="50" src="./images/linux.svg"></code>
+<code><img height="50" src="./images/git2.svg"></code>
+<code><img height="50" src="./images/jenkins.png"></code>
 
 
 📊 **this week i spent my time on:**
