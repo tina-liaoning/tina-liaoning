@@ -4,7 +4,7 @@ my passion for software quality drives me to explore new tools and technologies.
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/tina-liaoning/tina-liaoning/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/tina-liaoning/tina-liaoning/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Any challengin task? do reach, [email](mailto:tina.liaoning@gmail.com) :)
 - 💬 ask me anything about QA, i am happy to help;
