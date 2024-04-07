@@ -6,7 +6,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/tina-liaoning/tina-liaoning/blob/main/code.gif?raw=true" width="500" height="320" />
   
-- 💼 Any challengin task? do reach, [email](mailto:tina.liaoning@gmail.com) :)
+- 💼 Any challenging task? do reach, [email](mailto:tina.liaoning@gmail.com) :)
 - 💬 ask me anything about QA, i am happy to help;
 
 **languages and tools:**  
